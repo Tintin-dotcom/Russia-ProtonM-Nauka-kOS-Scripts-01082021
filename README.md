@@ -3,7 +3,7 @@
 Craft files for the rocket, and a version without the parts needed for kOS, are included.
 
 Link to Youtube video:
-
+https://www.youtube.com/watch?v=PaWnVn5obwE
 
 This is the Kerbal Operating System code for a Proton-M rocket launch, carrying the Nauka module to the ISS.
 
