@@ -1,4 +1,4 @@
-# Russia-ProtonM-kOS-Scripts-01082021
+# Russia-ProtonM-Nauka-kOS-Scripts-01082021
 
 Craft files for the rocket, and a version without the parts needed for kOS, are included.
 
