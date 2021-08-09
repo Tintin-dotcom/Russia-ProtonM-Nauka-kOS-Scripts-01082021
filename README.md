@@ -9,9 +9,9 @@ This is the Kerbal Operating System code for a Proton-M rocket launch, carrying 
 
 The code launches the nauka module into a parking orbit.
 
-The docking to the ISS has to be done manually.
+The docking with the ISS has to be done manually.
 
-The boot.ks file opens the kOS Terminal of the kOS processor directly after launching the vessel. This only works if you right-click one of the two kOS processors attached to the Nauka module, and select boot file "boot.ks".
+The boot.ks file opens the kOS Terminal of the kOS processor directly after launching the vessel. This only works if you right-click one of the two kOS processors attached to the Nauka module, and select boot file "boot.ks". This file has to be placed inside a "Boot" foder in the KSP/Ships/Script directory.
 
 ///NOTES///
 
