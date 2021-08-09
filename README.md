@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=PaWnVn5obwE
 
 This is the Kerbal Operating System code for a Proton-M rocket launch, carrying the Nauka module to the ISS.
 
-The code launches the nauka module into a parking orbit.
+The code launches the Nauka module into a parking orbit.
 
 The docking with the ISS has to be done manually.
 
